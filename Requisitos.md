@@ -8,7 +8,7 @@ Esse projeto nasceu com o intuito de replicar um jogo que sempre gostei de jogar
 
 ## Objetivo
 
-O objetivo é desenvolver um jogo onde o personagem principal tem que descobrir quem é a bruxa após realizar perguntas ao aldeões, ao final do turno ele deve escolher um personagem para queimar na fogueira. 
+O objetivo do jogo é que o personagem principal tem que descobrir quem é a bruxa após realizar perguntas ao aldeões, ao final do turno ele deve escolher um personagem para queimar na fogueira. 
 Ele ganha se queimá-la antes que ela consiga matar 85% da população.
 
 ## Valor Agregado
