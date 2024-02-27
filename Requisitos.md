@@ -16,7 +16,7 @@ Ele ganha se queimá-la antes que ela consiga matar 85% da população.
 Agregar conhecimentos em gestão de projetos e desenvolvimento.
 
 ## Fases
-
+As fases do jogo consiste em um roteiro fixo explicado abaixo. Cada partida pode ter até 5 turnos, a quantidade de turnos depende da expertise do nosso caçador. 
 | Fases | Descrição |
 | ----- | ----------- |
 | Introdução     |   O jogador será introduzido à vila e aos personagens, explicando a situação atual da presença da bruxa.     |
