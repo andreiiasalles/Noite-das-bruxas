@@ -16,7 +16,7 @@ Ele ganha se queimá-la antes que ela consiga matar 85% da população.
 Agregar conhecimentos em gestão de projetos e desenvolvimento.
 
 ## Fases
-As fases do jogo consiste em um roteiro fixo explicado abaixo. Cada partida pode ter até 5 turnos, a quantidade de turnos depende da expertise do caçador. 
+As fases do jogo consiste em um roteiro fixo explicado abaixo. Cada partida pode durar até ter 2 personagens, a quantidade de turnos depende da expertise do caçador. 
 | Fases | Descrição |
 | ----- | ----------- |
 | Introdução     |   O jogador será introduzido à vila e aos personagens, explicando a situação atual da presença da bruxa.     |
@@ -27,7 +27,7 @@ As fases do jogo consiste em um roteiro fixo explicado abaixo. Cada partida pode
 |Conclusão| Uma vez que o jogador vence ou perde, uma cena de conclusão é mostrada, revelando o destino final da vila e dos aldeões.|
 ## Esquema de Pontuação
 
-QUAL É O ESQUEMA DE PONTUAÇÃO.
+A pontuação consiste numa regressão, a cada turno o jogador vai perdendo 100 pontos, ele inicia com 1000. Quanto mais rápido você acertar quem é a bruxa, maior será sua pontuação.
 
 
 ## Requisitos
@@ -39,7 +39,18 @@ QUAL É O ESQUEMA DE PONTUAÇÃO.
 
 ### Personas
 
-1. **QUEM SÃO OS PERSONAGENS DO JOGO**
+Dentre esses personagens será sorteado a cada partida aleatoriamente um para ser a bruxa.
+1. A Tecelã
+2. O Guarda da Vila
+3. O Eremita
+4. O Mercador Ambulante
+5. A Donzela
+6. Ferreiro
+7. A Curandeira
+8. O Padeiro
+
+O caçador é o jogador. 
+   
 
 ## Protótipos de Tela
 
